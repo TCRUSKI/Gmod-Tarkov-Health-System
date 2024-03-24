@@ -4,10 +4,10 @@ Database backed health system that imitates the Tarkov health system.
 
 # Features:
 -7 unique body areas that each have their own health bar
--Destroying a body part now has that regional damage reflected onto the rest of the body
--Destroying the head or the torso is an instant kill
--Bullet damage damages individual body parts while all other damage is spread across the whole body
--Admins can turn the system on and off on demand
+\n-Destroying a body part now has that regional damage reflected onto the rest of the body
+\n-Destroying the head or the torso is an instant kill
+\n-Bullet damage damages individual body parts while all other damage is spread across the whole body
+\n-Admins can turn the system on and off on demand
 
 # Console Commands:
 -TarkovHealth_CurrentHealth:
