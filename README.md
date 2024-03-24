@@ -2,14 +2,14 @@
 
 Database backed health system that imitates the Tarkov health system.
 
-#Features:
+# Features:
 -7 unique body areas that each have their own health bar
 -Destroying a body part now has that regional damage reflected onto the rest of the body
 -Destroying the head or the torso is an instant kill
 -Bullet damage damages individual body parts while all other damage is spread across the whole body
 -Admins can turn the system on and off on demand
 
-#Console Commands:
+# Console Commands:
 -TarkovHealth_CurrentHealth:
      -Prints the users current health table
 -TarkovHealth_PrintTable:
@@ -19,7 +19,7 @@ Database backed health system that imitates the Tarkov health system.
      -Admin only
      Toggles the system on/off
 
-#Future plans:
+# Future plans:
 -Health Effect system similar to how Tarkov works (toggle-able):
      -Bleeding status effects
      -Destroying legs effects moving speed
@@ -32,8 +32,8 @@ Database backed health system that imitates the Tarkov health system.
 -Armor System (Possible DLC)
      -A tarkov based regional armor system that works off of similar concepts to this addon, will most likely be DLC addon that requires this addon
 
-#Github Repository:
+# Github Repository:
 https://github.com/TCRUSKI/Gmod-Tarkov-Health-System
 
-#Steam Page:
+# Steam Page:
 https://steamcommunity.com/sharedfiles/itemedittext/?id=3198478618
