@@ -36,4 +36,4 @@ Database backed health system that imitates the Tarkov health system.
 https://github.com/TCRUSKI/Gmod-Tarkov-Health-System
 
 # Steam Page:
-https://steamcommunity.com/sharedfiles/itemedittext/?id=3198478618
+https://steamcommunity.com/sharedfiles/filedetails/?id=3198478618
